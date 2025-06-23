@@ -15,7 +15,7 @@ st.set_page_config(page_title="Language Translator", layout="centered")
 st.markdown("""
     <style>
     html, body {
-        zoom: 1.1; /* Works reliably across browsers */
+        zoom: 1.0; /* Works reliably across browsers */
     }
     body {
         background-color: #0e1117;

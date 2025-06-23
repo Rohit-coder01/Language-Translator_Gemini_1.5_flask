@@ -12,7 +12,8 @@ This is a real-time language translator web app built with **Streamlit** and **G
 
 ## 📸 App Screenshot
 
-![App Screenshot](https://github.com/Rohit-coder01/Language-Translator_Gemini_1.5_flask/blob/e9c188c6a24ea4b5c628415c71ed5b9c457762c5/Screenshot%202025-06-23%20194558.png)
+![App Screenshot](https://raw.githubusercontent.com/Rohit-coder01/Language-Translator_Gemini_1.5_flask/13fca1cb2ed578d5e82212190781c75884cc67a6/Screenshot%202025-06-23%20194558.png)
+
 
 ---
 
